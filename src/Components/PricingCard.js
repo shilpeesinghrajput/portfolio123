@@ -7,14 +7,14 @@ const PricingCard = () => {
     <div className="pricing">
           <div className="card-container">
                     <div className="card">
-                              <h3>- Basic -</h3>
+                              <h3>- Game 1 -</h3>
                               <span className="bar"></span>
-                              <p className="btc">$ 300</p>
-                              <p>- 3 Days -</p>
-                              <p>- 3 Pages -</p>
-                              <p>- Featured -</p>
-                              <p>- Responsive Design -</p>
-                              <Link to ='/contact' className ="btn">PURCHASE NOW</Link>
+                              <p className="btc">Tic Tac Toe</p>
+                              <p>- Fun -</p>
+                              <p>- Classic -</p>
+                              <p>- Multiplayer-</p>
+                              <p>- XXXXXX -</p>
+                              <Link to ='/projects/tictac' className ="btn">Play NOW</Link>
                     </div>
 
                     <div className="card">
