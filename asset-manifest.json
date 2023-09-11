@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/portfolio123/static/css/main.9ca9c8aa.css",
-    "main.js": "/portfolio123/static/js/main.446d6353.js",
+    "main.css": "/portfolio123/static/css/main.923b2d21.css",
+    "main.js": "/portfolio123/static/js/main.4ec05b3b.js",
     "static/media/ReactJS.jpg": "/portfolio123/static/media/ReactJS.14ce5388d210b6e18524.jpg",
     "static/media/react1.jpg": "/portfolio123/static/media/react1.f157c299ee167c2ecae6.jpg",
     "static/media/job.jpg": "/portfolio123/static/media/job.383ab02c354e01c332d0.jpg",
     "static/media/max.jpg": "/portfolio123/static/media/max.8f2b1d2d5f675810ff40.jpg",
     "static/media/max2.jpg": "/portfolio123/static/media/max2.b67c121f417c21fc290c.jpg",
-    "static/media/max1.jpg": "/portfolio123/static/media/max1.2d20df27f23aca9a5d08.jpg",
+    "static/media/max1.jpg": "/portfolio123/static/media/max1.3c5b63b0399c42fc543d.jpg",
     "index.html": "/portfolio123/index.html",
-    "main.9ca9c8aa.css.map": "/portfolio123/static/css/main.9ca9c8aa.css.map",
-    "main.446d6353.js.map": "/portfolio123/static/js/main.446d6353.js.map"
+    "main.923b2d21.css.map": "/portfolio123/static/css/main.923b2d21.css.map",
+    "main.4ec05b3b.js.map": "/portfolio123/static/js/main.4ec05b3b.js.map"
   },
   "entrypoints": [
-    "static/css/main.9ca9c8aa.css",
-    "static/js/main.446d6353.js"
+    "static/css/main.923b2d21.css",
+    "static/js/main.4ec05b3b.js"
   ]
 }
