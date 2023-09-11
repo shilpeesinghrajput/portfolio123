@@ -38,6 +38,10 @@ setColor(true)
                     <li>
                               <Link to={"/about"}>About</Link>
                     </li>
+
+                    <li>
+                              <Link to={"/tictac"}>Tictac</Link>
+                    </li>
           </ul>
           
           <div className='Humburger' onClick={handleClick}>
