@@ -18,14 +18,14 @@ const PricingCard = () => {
                     </div>
 
                     <div className="card">
-                              <h3>- Premium -</h3>
+                              <h3>- Game 2 -</h3>
                               <span className="bar"></span>
-                              <p className="btc">$ 500</p>
+                              <p className="btc">Hangman</p>
                               <p>- 5 Days -</p>
                               <p>- 7 Pages -</p>
                               <p>- Featured -</p>
                               <p>- Responsive Design -</p>
-                              <Link to ='/contact' className ="btn"> PURCHASE NOW</Link>
+                              <Link to ='/projects/hangman' className ="btn"> Play NOW</Link>
                     </div>
 
                     <div className="card">

@@ -7,6 +7,7 @@ import { Route, Routes } from "react-router-dom";
 import Todo from "./Components/Todo";
 import Projects from "./routes/Projects";
 import Tictac from "./routes/Tictac";
+import Hangman from "./routes/Hangman";
 
 function App() {
   return (
@@ -18,6 +19,7 @@ function App() {
         <Route path="/contact" element={<Contact />} />
         <Route path="/projects/todo" element={<Todo />} />
         <Route path="/projects/tictac" element={<Tictac/>} />
+        <Route path="/projects/hangman" element={<Hangman/>} />
 
       </Routes>
     </>

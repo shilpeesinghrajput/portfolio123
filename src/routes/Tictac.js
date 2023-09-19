@@ -11,7 +11,7 @@ const Tictac = () => {
   return (
     <div>
      <Navbar/>
-     <HeroImg2 heading='TIC TAC TOE GAME' text='made by shilee kumari' />
+     <HeroImg2 heading='TIC TAC TOE GAME' text='Made By Shilpee Kumari' />
      <TictacData/>
      <Footer/>
     </div>
