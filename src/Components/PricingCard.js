@@ -31,12 +31,12 @@ const PricingCard = () => {
                     <div className="card">
                               <h3>- Business -</h3>
                               <span className="bar"></span>
-                              <p className="btc">$ 400</p>
+                              <p className="btc">ColorPicker</p>
                               <p>- 6 Days -</p>
                               <p>- 8 Pages -</p>
                               <p>- Featured -</p>
                               <p>- Responsive Design -</p>
-                              <Link to ='/contact' className ="btn"> PURCHASE NOW</Link>
+                              <Link to ='/projects/colorpicker' className ="btn"> Play NOW</Link>
                     </div>
           </div>
       
