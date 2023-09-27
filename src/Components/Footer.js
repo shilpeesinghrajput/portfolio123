@@ -13,8 +13,8 @@ const Footer = () => {
                                          ,marginRight:"2rem"}}/>
                     
                               <div>
-                                        <p>Sector 31 B-block</p>
-                                        <p>Noida, </p>
+                                        <p>Sector 31 B-block,Noida</p>
+                                
                               </div>
                               </div>
                     
@@ -33,9 +33,9 @@ const Footer = () => {
                     </div>
                     </div>
                     <div className="right">
-                              <h4>About The Compony</h4>
-                              <p>This is Shilpee singh . 
-                                        Fresher & Quick Learner.
+                              <h4>About Me :</h4>
+                              <p>This is Shilpee Singh Rajput, 
+                                        Fresher & Quick Learner,
                                          I enjoy discussing new project and design challenges </p>
                     
                     <div className="social">

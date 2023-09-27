@@ -1,0 +1,16 @@
+.line {
+          display: block;
+          width: 25px;
+          height: 1.5px;
+          background-color: rgb(248, 217, 15);
+        }
+        .about-section .about-card {
+          padding: 60px;
+          border-right: 1px solid #dee2e6;
+          border-bottom: 1px solid #dee2e6;
+        }
+
+.card{
+          border: 1px solid #1f1e1e;
+          background-color:#1f1e1e;;
+}

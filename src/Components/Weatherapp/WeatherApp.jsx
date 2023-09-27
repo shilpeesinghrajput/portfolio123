@@ -57,7 +57,7 @@ console.log(data)
 
      }
   return (
-          <div className='container'>
+          <div className='containerss'>
           <div className="top-bar">
            <input type="text" className="cityInput" placeholder="search"/>
            <div className="search-icon" onClick={()=>{search()}}>
