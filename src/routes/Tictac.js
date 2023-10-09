@@ -8,6 +8,9 @@ import HeroImg2 from '../Components/HeroImg2'
 
 
 const Tictac = () => { 
+
+  window.scroll(0,0);
+
   return (
     <div>
      <Navbar/>

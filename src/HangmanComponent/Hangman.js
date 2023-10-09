@@ -92,26 +92,30 @@ import img6 from "../Image/6.jpg";
 
     return (
       <div className='Hangman'>
-        <h1>Hangman</h1>
-        <img src={images[nWrong]} alt={alternateText}/>
-        <p>Number Wrong: {nWrong}</p>
+        <div>
+          <h1>Hangman</h1>
+          <img src={images[nWrong]} alt={alternateText}/>
+          <p>Number Wrong: {nWrong}</p>
+        </div>
 
-        
+        <div style={{marginTop:"100px"}}>
+
         { answer === this.guessedWord().join("") ? <p>You WIN!</p> :
 
-          (nWrong === maxWrong ?
-        <div>
-          <p>YOU LOSE </p>
-          <p>Correct Word is: {answer}</p>
-        </div>
-        :
-        <div>
-        <p className='Hangman-word'>{this.guessedWord()}</p>
-        <p className='Hangman-btns'>{this.generateButtons()}</p>
-      </div>)
+(nWrong === maxWrong ?
+<div>
+<p>YOU LOSE </p>
+<p>Correct Word is: {answer}</p>
+</div>
+:
+<div>
+<p className='Hangman-word'>{this.guessedWord()}</p>
+<p className='Hangman-btns'>{this.generateButtons()}</p>
+</div>)  
       }
-
-      <button id='reset' onClick={this.resetGame}>Reset Game</button>
+       <button id='reset' onClick={this.resetGame}>Reset Game</button>
+</div>
+     
       </div>
     );
   }

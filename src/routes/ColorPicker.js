@@ -7,6 +7,7 @@ import ColorPick from '../Components/ColorPick'
 
 
 const ColorPicker = () => { 
+  window.scroll(0,0);
   return (
     <div>
      <Navbar/>

@@ -6,14 +6,9 @@ import HeroImg2 from '../Components/HeroImg2'
 
 
 const Hangman = () => {
-  return (
-    <div>
-         
-          
+  window.scroll(0,0);
+  return (             
           <HangmanApp/>
-         
-      
-    </div>
   )
 }
 

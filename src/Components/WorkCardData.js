@@ -7,7 +7,7 @@ const projectCardData = [
     imageSrc: pro,
     title: "Weather App ",
     text: "This is a simple weather app made on react using openWeather API. it fetches weather data based on cities. ",
-    view:  "/projects/weatherApp",
+    view: "/projects/weatherApp",
   },
 
   {
@@ -19,8 +19,8 @@ const projectCardData = [
 
   {
     imageSrc: pro2,
-    title: "Weather Website Design ",
-    text: "Weather is something that never remains constant.Getting to know precise weather conditions helps people to plan out their daily shedule. with  weather forecasting technology reaching to the skies. dissenination of the forecast to has taken diverse routes. ",
+    title: "Upcoming Project ",
+    text: "Work still going on locally. will commit soon",
     view: "url.com",
   },
 ];

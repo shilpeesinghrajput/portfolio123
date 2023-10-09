@@ -63,11 +63,11 @@ const HomeDescription = () => {
                             </div>
                         </div>
                         <div className="card-body">
-                            <h6 className="title text-warning">May 2022 - Present</h6>
+                            <h6 className="title text-warning">May 2023 - Present</h6>
                             <p> React Developer</p>
                             <p className="subtitle">Working on several LIVE projects with different domains (Food Chain (YogoShushi), Hospitality(DaalChini) and CRM (In-house)</p>
                             <hr/>
-                            <h6 className="title text-warning">2016 - 2017</h6>
+                            <h6 className="title text-warning">Feb 2022-July 2022</h6>
                             <p>Front-end Intern</p>
                             <p className="subtitle">Worked on website design elements which got converted to individual components within any given framework</p>
                                                     </div>
@@ -143,7 +143,7 @@ const HomeDescription = () => {
                             <div className="progress mb-3">
                                 <div className="progress-bar bg-warning" role="progressbar" style={{width: "90%"}} aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
                             </div>
-                            <h6>Bojhpuri</h6>
+                            <h6>Bhojpuri</h6>
                             <div className="progress mb-3">
                                 <div className="progress-bar bg-warning" role="progressbar" style={{width: "100%"}} aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
                             </div>
